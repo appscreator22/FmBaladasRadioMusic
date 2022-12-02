@@ -74,8 +74,7 @@ function chillHop() {
             color: ["#7BC8DD", "#D64A59"],
             audio: "https://c15.radioboss.fm:18222/stream",
             active: false,
-        },
-       
+        },   
     ];
 }
 
